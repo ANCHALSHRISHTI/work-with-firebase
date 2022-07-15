@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, "helicoptorblue", 
+    font-family: Arial, "helvetica Neue", 
 Helvetica, sans-serif;
 }
 .container{
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(to 
-right, lightpink,lightblue);
+right, blue,green);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,5 +39,5 @@ button{
     color: white;
     font-family: Arial, "Helvetica Neue", 
 Helvetica, sans-serif;
-    background-color: yellow;
+    background-color: blueviolet;
 }
