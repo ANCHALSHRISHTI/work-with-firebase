@@ -9,7 +9,7 @@ Helvetica, sans-serif;
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(to 
-right, blue,green);
+right, lightpink,lightblue);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,5 +39,5 @@ button{
     color: white;
     font-family: Arial, "Helvetica Neue", 
 Helvetica, sans-serif;
-    background-color: blueviolet;
+    background-color: lightseagreen;
 }
